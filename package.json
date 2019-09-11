@@ -1,0 +1,32 @@
+{
+  "name": "5.5.Bootstrap-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichalAW/08.landing-page.git"
+  },
+  "keywords": [],
+  "author": "MichalAW michal.wanta@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalAW/08.landing-page/issues"
+  },
+  "homepage": "https://github.com/MichalAW/08.landing-page#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3",
+    "globstar": "^1.0.0",
+    "node-sass": "^4.11.0",
+    "onchange": "^5.2.0"
+  },
+  "dependencies": {
+    "npm-run-all": "^4.1.5",
+    "nu-html-checker": "^0.1.0",
+    "sass": "^1.16.0",
+    "save-dev": "^2.0.0"
+  }
+}
